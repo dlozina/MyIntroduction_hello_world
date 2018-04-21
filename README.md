@@ -1,7 +1,7 @@
 # hello-world
 Just another new start
 
-Hi all, my name is Dino and I love to program! No matter if it is a Robot, PLC or new GUI application I just want to design high quality application and improve my engineering skills.
+Hi all, my name is Dino and I love to program! No matter if it is a Robot, PLC or new GUI application I just want to design high quality applications and improve my engineering skills.
 Find something you love and you will never work again, well I found my joy.
 \
 In my new job I am working as Machine Vision programmer and luckily I have a chance to work with C# and .NET platform.
